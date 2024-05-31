@@ -1,16 +1,20 @@
 
 # SHIP INFO
+
 ![image](https://github.com/Krengus/DU_ASTco/assets/93654396/f5942dd9-d864-43f1-9010-5adca121ee92)
 
 ## INSTALLATION
+
 Link core, databank, screen(s) and hub(s) in any order.
 
 ## DESCRIPTION
+
 Various ship monitors and infos gathered in a single script. Uses LUA screen API.
 Idea is to keep a strong focus on performances and provide lots of customization options.
 support and feedback: https://discord.gg/BfnbtFyHrt
 
-Features:
+## Features
+
 - Supports up to 4 linked containers
 - Main screen with fuel tanks and hubs monitoring, tracks various weight info: container hubs, fuel, docked constructs and boarded players
 - Repair screen to help finding damaged elements
@@ -26,3 +30,9 @@ Features:
 ## Special Thanks
 
 To SilverZero for his awesome work: https://github.com/d6rks1lv3rz3r0/DU-Modern-Screen-Flair/tree/main
+
+## Custom changelog
+
+Updated by tobitege, 2024-05-30
+0.758 - Fix rocket tank capacity calculation (10% not 20% per talent level)
+0.757 - Fix damage status display: ignore < 0.01 hitpoints as this isn't repairable
