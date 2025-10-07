@@ -11,7 +11,6 @@ Link core, databank, screen(s) and hub(s) in any order.
 
 Various ship monitors and infos gathered in a single script. Uses LUA screen API.
 Idea is to keep a strong focus on performances and provide lots of customization options.
-support and feedback: https://discord.gg/BfnbtFyHrt
 
 ## Features
 
@@ -22,13 +21,14 @@ support and feedback: https://discord.gg/BfnbtFyHrt
 - Boarded players screen to see and unboard players
 - Touch screen, multi-screen
 - Databank for persistance
+- Updated For Settlers Server, Previous version could not recognize/decipher the different fuel tanks. 
 
 ![image](https://user-images.githubusercontent.com/93654396/148534290-fe6fad69-54af-4dc9-9dfb-1d578c011862.png)
 ![image](https://user-images.githubusercontent.com/93654396/148816214-c93df243-e73f-4ee8-b8f2-36b6d7978b81.png)
 ![image](https://user-images.githubusercontent.com/93654396/148828635-d335d96a-49cf-42af-b739-a87f0670adb7.png)
 
 ## Special Thanks
-
+Originally written and maintained by Krengus All scripting goes to him, I just added the fuel tanks!
 To SilverZero for his awesome work: https://github.com/d6rks1lv3rz3r0/DU-Modern-Screen-Flair/tree/main
 
 ## Custom changelog
