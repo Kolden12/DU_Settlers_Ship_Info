@@ -29,6 +29,7 @@ Idea is to keep a strong focus on performances and provide lots of customization
 
 ## Special Thanks
 Originally written and maintained by Krengus All scripting goes to him, I just added the fuel tanks!
+
 To SilverZero for his awesome work: https://github.com/d6rks1lv3rz3r0/DU-Modern-Screen-Flair/tree/main
 
 ## Custom changelog
