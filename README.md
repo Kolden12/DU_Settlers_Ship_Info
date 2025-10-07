@@ -33,6 +33,9 @@ Originally written and maintained by Krengus All scripting goes to him, I just a
 To SilverZero for his awesome work: https://github.com/d6rks1lv3rz3r0/DU-Modern-Screen-Flair/tree/main
 
 ## Custom changelog
+Updated by kolden, 2025-10-06
+0.1.0 - Add auto recognition for all rarity of tanks on Settlers MyDU Server
+
 
 Updated by tobitege, 2024-05-30
 0.758 - Fix rocket tank capacity calculation (10% not 20% per talent level)
